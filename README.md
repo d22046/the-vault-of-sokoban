@@ -1,6 +1,6 @@
 ## The Vault of Sokoban
 
-This is based on the 1982 Japanese hit [Sokoban](https://en.wikipedia.org/wiki/Sokoban). In the game, the player pushes boxes around in a maze, trying to get them to proper storage locations. Progressing through a game require some advanced planning and precise maneuvering. Without planning, boxes may get stuck in the mazewhich forces a restart. Proper maneuvering ensures that boxes are never pushed to a corner, which is also a restart. Anticipating the consequences of each or multiple pushes is crucial in winning the game.
+This is based on the 1982 Japanese hit [Sokoban](https://en.wikipedia.org/wiki/Sokoban). In the game, the player pushes boxes around in a maze, trying to get them to proper storage locations. Progressing through a game require some advanced planning and precise maneuvering. Without planning, boxes may get stuck in the maze which forces a restart. Proper maneuvering ensures that boxes are never pushed to a corner, which is also a restart. Anticipating the consequences of each or multiple pushes is crucial in winning the game.
 
 ## Getting started
 
